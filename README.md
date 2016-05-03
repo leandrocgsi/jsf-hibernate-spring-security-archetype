@@ -1,0 +1,1 @@
+# jsf-hibernate-spring-security-archetype
