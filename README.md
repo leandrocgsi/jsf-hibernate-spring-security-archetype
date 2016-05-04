@@ -57,7 +57,7 @@ O Maven irá lhe perguntar se você deseja alterar a versão do seu projeto e a 
 
 ![Building1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/4-Building.png?raw=true)
 
-Agora só precisamos importar nosso projeto na nossa IDE favorita (Spring Suource Tool Suite - STS baseada no Eclipse no meu caso). Acesse o menu File >> Import >> Maven >> Existing Maven Projects >> Next.
+Agora só precisamos importar nosso projeto na nossa IDE favorita (STS - Spring Suource Tool Suite, baseada no Eclipse, no meu caso). Acesse o menu File >> Import >> Maven >> Existing Maven Projects >> Next.
 
 ![Importing1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/9-Importing.png?raw=true)
 
