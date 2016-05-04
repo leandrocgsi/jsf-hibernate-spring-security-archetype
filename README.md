@@ -18,19 +18,19 @@ Se você quer entender direito como funciona essa arquitetura assista ao curso "
 * [Apache Tomcat](http://tomcat.apache.org/)
 
 
-# How to use this Archetype?
+# Como usar este Archetype?
 
-First you need clone this project in your computer. This can be done with following command line.
+Primeiro você precisa clonar esse projeto no seu computador. Para isso abra o terminal no diretório em que deseja armazenar o código e execute o comando abaixo.
 
 ```
-git clone https://github.com/leandrocgsi/erudio-rest-api-archetype.git
+git clone https://github.com/leandrocgsi/jsf-hibernate-spring-security-archetype.git
 ```
 
-Open the generated source folder, that can be should look like the image below.
+Abra a source folder gerado. Ele deverá se parecer com a imagem abaixo.
 
 ![OpenFolder](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/1-OpenFolder.png?raw=true)
 
-Execute following comand line in your folder.
+Abra o terminal nessa pasta e execute o seguinte comando.
 
 ```
 mvn clean install
