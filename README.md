@@ -3,7 +3,19 @@
 
 Este é um Maven Archetype que lhe possibilita criar uma aplicação JSF com Hibernate, JPA e SpringSecurity em minutos. O projeto gerado já terá 2 CRUDS básicos para que lhe seja possível botar a mão na massa de imediato. A aplicação é protegida pelo SpringSecurity, desse modo sua aplicação já estará pronta para autenticar e autorizar seus usuários. Este Archetype foi desenvolvido baseado no projeto [Semeru JSF Maven](https://github.com/leandrocgsi/semeru_jsf_maven). Então mãos a obra vamos aprender como usar esse poderoso recurso. 
 
+Se você quer entender direito como funciona essa arquitetura assista ao curso "Curso De JSF Do Zero À Nuvem" disponibilizado gratuitamente no [Youtube](https://www.youtube.com/playlist?list=PL18bbNo7xuh9d1AyAeC77O8xRz6hPD3iJ).
 
+# Frameworks e Tecnologias Utilizadas
+
+* [JSF (Mojarra)](https://javaserverfaces.java.net/)
+* [Primefaces](http://www.primefaces.org/)
+* [JPA](http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html)
+* [Hibernate](http://hibernate.org/)
+* [Maven](https://maven.apache.org/)
+* [Spring Security](http://projects.spring.io/spring-security/)
+* [MySQL](https://www.mysql.com/)
+* [MySQL Administrator](https://downloads.mysql.com/archives/administrator/) - Que foi descontinuado e você pode substituir pelo [Heidi SQL](http://www.heidisql.com/)
+* [Apache Tomcat](http://tomcat.apache.org/)
 
 
 # How to use this Archetype?
@@ -70,4 +82,4 @@ Now we have one structure similar to image bellow. As you can see, on *Markers t
 
 ![Final](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/14-Final.png?raw=true)
 
-Now to execute your project [click here](https://github.com/leandrocgsi/erudio-api-oauth2) and follow the steps.
+Now to execute your project [click here](https://github.com/leandrocgsi/semeru_jsf_maven)and follow the steps.
