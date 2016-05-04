@@ -49,11 +49,11 @@ mvn archetype:generate -DarchetypeGroupId=br.com.semeru
 	-DartifactId=erudio-jsf-maven
 ```
 
-It's can be should look like the image below.
+Ele deve se parecer com a imagem abaixo.
 
 ![GenerateProject](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/3-GenerateProject.png?raw=true)
 
-Maven ask if you need change version of your project and your package base as is highlighted in red in the image below. If you dont want any change just type Enter Enter. If everything is gonna be OK you should see one image similar to following. Your project was created with success ;-)
+O Maven irá lhe perguntar se você deseja alterar a versão do seu projeto e a estrutura de pacotes como está destacado na imagem abaixo. Se você não quiser alterar nada apenas digite Enter Enter. If everything is gonna be OK you should see one image similar to following. Your project was created with success ;-)
 
 ![Building1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/4-Building.png?raw=true)
 
