@@ -5,6 +5,10 @@ Este é um Maven Archetype que lhe possibilita criar uma aplicação JSF com Hib
 
 Se você quer entender direito como funciona essa arquitetura assista ao curso "Curso De JSF Do Zero À Nuvem" disponibilizado gratuitamente no [Youtube](https://www.youtube.com/playlist?list=PL18bbNo7xuh9d1AyAeC77O8xRz6hPD3iJ).
 
+* [Iniciando Se No JSF – 01 – Apresentação, O Projeto E As Tecnologias](http://www.semeru.com.br/blog/iniciando-se-no-jsf-01-apresentacao-o-projeto-e-as-tecnologias/)
+* [Iniciando Se No JSF – 02 – Configurando O Ambiente E Criando O Primeiro Projeto](http://www.semeru.com.br/blog/iniciando-se-no-jsf-02-configurando-o-ambiente-e-criando-o-primeiro-projeto/)
+* [Iniciando Se No JSF – 03 – A Arquitetura Da Aplicação](http://www.semeru.com.br/blog/iniciando-se-no-jsf-03-a-arquitetura-da-aplicacao/)
+
 # Frameworks e Tecnologias Utilizadas
 
 * [JSF (Mojarra)](https://javaserverfaces.java.net/)
