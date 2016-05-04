@@ -35,12 +35,11 @@ Abra o terminal nessa pasta e execute o seguinte comando.
 ```
 mvn clean install
 ```
-It's can be should look like the image below.
+Ele deve se parecer com a imagem abaixo
 
 ![CleanInstall](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/2-CleanInstall.png?raw=true)
 
-Now go to the directory where you want to create your project and run the command below.
-
+Agora vá até o diretorio em que deseja criar o seu projeto e execute o seguinte comando.
 
 ```
 mvn archetype:generate -DarchetypeGroupId=br.com.semeru
