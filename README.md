@@ -65,9 +65,4 @@ Como na imagem abaixo digite ou navegue até o diretório onde se encontra o seu
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
-
-Now we have one structure similar to image bellow. As you can see, on *Markers tab*, we have some erros but dont be worry just click with right button and delete they.
-
-![Final](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/14-Final.png?raw=true)
-
-Now to execute your project [click here](https://github.com/leandrocgsi/semeru_jsf_maven)and follow the steps.
+Agora que tudo está pronto basta codar a nossa aplicação. Caso não saiba como executar o projeto [clique aqui](https://github.com/leandrocgsi/semeru_jsf_maven) e siga o passo a passo.
