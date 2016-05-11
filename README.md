@@ -54,7 +54,10 @@ mvn archetype:generate -DarchetypeGroupId=br.com.semeru
 	-DarchetypeArtifactId=jsf-hibernate-spring-security-archetype
 	-DarchetypeVersion=0.1.0
 	-DgroupId=br.com.erudio
-	-DartifactId=erudio-jsf-maven
+	-DartifactId=erudio-jsf-maven    
+    -Dversion=1.0-SNAPSHOT
+    -Dpackage=br.com.erudio
+    
 ```
 
 Ele deve se parecer com a imagem abaixo.
