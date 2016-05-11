@@ -59,6 +59,7 @@ mvn archetype:generate -DarchetypeGroupId=br.com.semeru
     -Dpackage=br.com.erudio
     
 ```
+Onde você deve ajustar os parâmetros *DgroupId* para seu group ID, *DartifactId* para o nome do seu projeto, *Dversion* para o numero de versão desejado, *Dpackage* para sua base de pacotes. 
 
 Ele deve se parecer com a imagem abaixo.
 
