@@ -78,3 +78,31 @@ Como na imagem abaixo digite ou navegue até o diretório onde se encontra o seu
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
 Agora que tudo está pronto basta codar a nossa aplicação. Caso não saiba como executar o projeto [clique aqui](https://github.com/leandrocgsi/semeru_jsf_maven) e siga o passo a passo.
+
+
+# [Série de Video Aulas em Português explicando passo a passo como funcionam os Archetypes do Maven](https://www.youtube.com/playlist?list=PL18bbNo7xuh-uIfKSuwAUaG4PWw832YVx)
+
+01 Montando Um Archetype Maven Apresentação
+-----------------------------
+
+[![01 Montando Um Archetype Maven](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=wzdkHpMpkQE-Y "01 Montando Um Archetype Maven")
+
+02 Montando Um Archetype Maven COMPACTO
+-----------------------------
+
+[![02 Montando Um Archetype Maven COMPACTO](http://img.youtube.com/vi/aBHtHx6MI6c/0.jpg)](https://www.youtube.com/watch?v=aBHtHx6MI6c-Y "02 Montando Um Archetype Maven COMPACTO")
+
+03 Montando Um Archetype Maven DETALHADO Parte 1
+-----------------------------
+
+[![03 Montando Um Archetype Maven DETALHADO Parte 1](http://img.youtube.com/vi/qpK8s_O_fwY/0.jpg)](https://www.youtube.com/watch?v=qpK8s_O_fwY-Y "01 Montando Um Archetype Maven DETALHADO Parte 1")
+
+04 Montando Um Archetype Maven DETALHADO Parte 2
+-----------------------------
+
+[![04 Montando Um Archetype Maven DETALHADO Parte 2](http://img.youtube.com/vi/auZCBhNQQrc/0.jpg)](https://www.youtube.com/watch?v=auZCBhNQQrc-Y "02 Montando Um Archetype Maven DETALHADO Parte 2")
+
+05 Montando Um Archetype Maven DETALHADO Parte 3
+-----------------------------
+
+[![05 Montando Um Archetype Maven DETALHADO Parte 3](http://img.youtube.com/vi/VG2f4NDRev0/0.jpg)](https://www.youtube.com/watch?v=VG2f4NDRev0-Y "03 Montando Um Archetype Maven DETALHADO Parte 3")
