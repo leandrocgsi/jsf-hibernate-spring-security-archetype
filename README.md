@@ -50,13 +50,13 @@ Ele deve se parecer com a imagem abaixo
 Agora vá até o diretorio em que deseja criar o seu projeto e execute o seguinte comando.
 
 ```
-mvn archetype:generate -DarchetypeGroupId=br.com.semeru
-	-DarchetypeArtifactId=jsf-hibernate-spring-security-archetype
-	-DarchetypeVersion=0.1.0
-	-DgroupId=br.com.erudio
-	-DartifactId=erudio-jsf-maven    
-    -Dversion=1.0-SNAPSHOT
-    -Dpackage=br.com.erudio
+mvn archetype:generate -DarchetypeGroupId=br.com.semeru \
+  -DarchetypeArtifactId=jsf-hibernate-spring-security-archetype \
+  -DarchetypeVersion=0.1.0 \
+  -DgroupId=br.com.erudio \
+  -DartifactId=erudio-jsf-maven \
+  -Dversion=1.0-SNAPSHOT \
+  -Dpackage=br.com.erudio
     
 ```
 Onde você deve ajustar os parâmetros *DgroupId* para seu group ID, *DartifactId* para o nome do seu projeto, *Dversion* para o numero de versão desejado, *Dpackage* para sua base de pacotes. 
