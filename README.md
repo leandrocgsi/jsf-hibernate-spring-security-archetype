@@ -77,7 +77,7 @@ Como na imagem abaixo digite ou navegue até o diretório onde se encontra o seu
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
-Agora que tudo está pronto basta codar a nossa aplicação. Caso não saiba como executar o projeto [clique aqui](https://github.com/leandrocgsi/semeru_jsf_maven) e siga o passo a passo.
+Agora que tudo está pronto basta rodar a nossa aplicação. Caso não saiba como executar o projeto [clique aqui](https://github.com/leandrocgsi/semeru_jsf_maven) e siga o passo a passo.
 
 
 # [Série de Video Aulas em Português explicando passo a passo como funcionam os Archetypes do Maven](https://www.youtube.com/playlist?list=PL18bbNo7xuh-uIfKSuwAUaG4PWw832YVx)
